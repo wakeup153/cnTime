@@ -1,0 +1,24 @@
+{
+  "name": "cntime",
+  "version": "1.0.1",
+  "description": "get china location time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakeup153/cnTime.git"
+  },
+  "keywords": [
+    "time",
+    "getTime",
+    "cntime"
+  ],
+  "author": "gongshichun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakeup153/cnTime/issues"
+  },
+  "homepage": "https://github.com/wakeup153/cnTime#readme"
+}
